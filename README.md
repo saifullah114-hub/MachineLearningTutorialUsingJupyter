@@ -1,1 +1,1 @@
-# MachineLearing tutorial in jupyter notebook
+# MachineLearning tutorial using jupyter notebook
